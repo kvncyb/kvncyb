@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 🔭 Working as Digital Analytics Implementation Specialist<br>
-🌱 Learning frontend development<br>
-🎓 Exploring backend (servers and databases) and AI
+🌱 Learning development<br>
+🎓 Exploring AI
 
 
 ## 🌐 Socials:
