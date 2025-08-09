@@ -3,7 +3,7 @@
 ## 👋 Hi, Kevin here!
 
 # 💫 About Me:
-🔭 Working as Digital Analytics Implementation Specialist<br>
+🔭 Working as Analytics Implementaion Specialist<br>
 🌱 Learning development<br>
 🎓 Exploring AI
 
